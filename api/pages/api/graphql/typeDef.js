@@ -49,7 +49,7 @@ export const typeDefs = gql`
     location: String
     drops: [String]
     healthPoints: String
-    importance: String
+    difficulty: String
     region: String
   }
 
@@ -220,7 +220,7 @@ export const typeDefs = gql`
       description: String
       location: String
       healthPoints: String
-      importance: String
+      difficulty: String
       page: Int = 0
       limit: Int
       region: String
