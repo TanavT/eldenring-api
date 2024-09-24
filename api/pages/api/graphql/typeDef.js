@@ -51,6 +51,7 @@ export const typeDefs = gql`
     healthPoints: String
     difficulty: String
     region: String
+    important: Boolean
   }
 
   type ClassStats {
@@ -221,6 +222,7 @@ export const typeDefs = gql`
       location: String
       healthPoints: String
       difficulty: String
+      important: Boolean
       page: Int = 0
       limit: Int
       region: String
