@@ -11,6 +11,16 @@ export const typeDefs = gql`
     name: String
   }
 
+    type Region {
+    id: ID!
+    type: String
+    name: String
+    image: String
+    description: String
+    difficulty: String
+    important: Boolean
+  }
+
   type Ammo {
     id: ID!
     name: String
@@ -179,6 +189,18 @@ export const typeDefs = gql`
   }
 
   type Query {
+    region(
+    id: ID
+    type: String
+    name: String
+    difficulty: String
+    important: Boolean
+    page: Int = 0
+    limit: Int
+    search: String
+    ): [Region]
+    getRegion(id: String!): Region!
+
     ammo(
       id: ID
       name: String

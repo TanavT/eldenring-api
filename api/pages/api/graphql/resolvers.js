@@ -2,6 +2,7 @@ import { simpleGraphQLGetByIdHandler, simpleGraphQLGetAllHandler } from "utils/r
 
 export const resolvers = {
   Query: {
+    region: async (_, args) => simpleGraphQLGetAllHandler(_, args, "regions"),
     ammo: async (_, args) => simpleGraphQLGetAllHandler(_, args, "ammos"),
     armor: async (_, args) => simpleGraphQLGetAllHandler(_, args, "armors"),
     ashOfWar: async (_, args) => simpleGraphQLGetAllHandler(_, args, "ashes"),
