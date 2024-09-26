@@ -1,1 +1,41 @@
-[{"id":null,"type": "region","name":"Limgrave","image":null,"description":"Limgrave is a lush, expansive section of the Tenebrae Demesne. Golden trees and tall grass and bushes provide plenty of sustenance for the local wildlife, that features boars, sheep, goat and rodents in addition to flying creatures such as eagles and owls. More sinister and aggressive wildlife also exists, and those venturing forth should be prepared to combat them.", "difficulty":"0", "important": true}]
+[{"id":null,"type": "region","name":"Limgrave","image":null,"description":"Limgrave is a lush, expansive section of the Tenebrae Demesne. Golden trees and tall grass and bushes provide plenty of sustenance for the local wildlife, that features boars, sheep, goat and rodents in addition to flying creatures such as eagles and owls. More sinister and aggressive wildlife also exists, and those venturing forth should be prepared to combat them.", "difficulty":"0", "important": true},
+
+{"id":null, "type":"region", "name":"Weeping Penisula", "image":null, "description":"", "difficulty":"4", "important": true},
+
+{"id":null, "type":"region", "name":"Liurnia of the Lakes", "image":null, "description":"", "difficulty":"8", "important": true},
+
+{"id":null, "type":"region", "name":"Siofra River", "image":null, "description":"", "difficulty":"12", "important": true},
+
+{"id":null, "type":"region", "name":"Ainsel River", "image":null, "description":"", "difficulty":"13", "important": true},
+
+{"id":null, "type":"region", "name":"Caelid", "image":null, "description":"", "difficulty":"14", "important": true},
+
+{"id":null, "type":"region", "name":"Altus Plateau", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Nokron, Eternal City", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Deeproot Depths", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Capital Outskirts", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Mount Gelmir", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Lake of Rot", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Dragonbarrow", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Leyndell, Royal Capital", "image":null, "description":"", "difficulty":"", "important": true}
+
+{"id":null, "type":"region", "name":"Moonlight Altar", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Mountaintop of the Giants", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Consecrated Snowfield", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Crumbling Farum Azula", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Mohgwyn Palace", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Miquella's Haligtree", "image":null, "description":"", "difficulty":"", "important": true},
+
+{"id":null, "type":"region", "name":"Leyndell, Ashen Capital", "image":null, "description":"", "difficulty":"", "important": true}]
