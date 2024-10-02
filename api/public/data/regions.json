@@ -10,7 +10,7 @@
 
 {"id":null, "type":"region", "name":"Caelid", "image":null, "description":"", "difficulty":"14", "important": true},
 
-{"id":null, "type":"region", "name":"Altus Plateau", "image":null, "description":"", "difficulty":"", "important": true},
+{"id":null, "type":"region", "name":"Altus Plateau", "image":null, "description":"", "difficulty":"18", "important": true},
 
 {"id":null, "type":"region", "name":"Nokron, Eternal City", "image":null, "description":"", "difficulty":"", "important": true},
 
